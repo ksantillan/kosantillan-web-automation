@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Smoke_Testing" parallel="tests" thread-count="1">
+	<listeners>
+		<listener class-name="utility.TestListener" />
+	</listeners>
+<parameter name="reportname" value="SMOKE_CHROME_SG_TESTING"></parameter>
+<parameter name="activesite" value="SG"></parameter>
+
+<!-- CONSOLIDATED SMOKE LOGIN TESTCASES  -->
+	<test name="Login_TC001">
+		<classes>
+			<class name="auto.Login_TC001"></class>
+		</classes>
+	</test>
+	<test name="Login_TC001">
+		<classes>
+			<class name="auto.Login_TC001"></class>
+		</classes>
+	</test>
+	<test name="Login_TC001">
+		<classes>
+			<class name="auto.Login_TC001"></class>
+		</classes>
+	</test>
+	<test name="Login_TC001">
+		<classes>
+			<class name="auto.Login_TC001"></class>
+		</classes>
+	</test>
+	<test name="Login_TC001">
+		<classes>
+			<class name="auto.Login_TC001"></class>
+		</classes>
+	</test>	
+	<test name="Login_TC001">
+		<classes>
+			<class name="auto.Login_TC001"></class>
+		</classes>
+	</test>
+	<test name="Login_TC001">
+		<classes>
+			<class name="auto.Login_TC001"></class>
+		</classes>
+	</test>	
+	<test name="Login_TC001">
+		<classes>
+			<class name="auto.Login_TC001"></class>
+		</classes>
+	</test>
+	<test name="Login_TC001">
+		<classes>
+			<class name="auto.Login_TC001"></class>
+		</classes>
+	</test>	
+	<test name="Login_TC001">
+		<classes>
+			<class name="auto.Login_TC001"></class>
+		</classes>
+	</test>								
+</suite>

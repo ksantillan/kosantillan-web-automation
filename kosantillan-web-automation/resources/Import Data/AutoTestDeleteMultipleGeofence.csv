@@ -1,0 +1,3 @@
+Geofence Name,Geofence Description,Type (Circle/Square),Size,Lat,Lon
+AutoTestDeleteMultipleGeofence1,Lovers in Paris,Circle,1000,48.8584,2.2945
+AutoTestDeleteMultipleGeofence2,Lovers in Paris,Square,1000,48.8584,2.2945
